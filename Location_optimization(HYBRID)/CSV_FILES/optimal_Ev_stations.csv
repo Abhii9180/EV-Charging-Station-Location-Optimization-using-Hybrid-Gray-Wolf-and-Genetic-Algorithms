@@ -1,0 +1,79 @@
+1,CMJ University,26.0966427,91.87795349999999,universities
+2,Gauhati University,26.1540389,91.66296679999999,universities
+10,Pharma job,26.2499007,91.6914078,universities
+11,NORTH GUWAHATI COLLEGE,26.2029458,91.7144292,universities
+13,Appin International Guwahati,26.185261,91.75748709999999,universities
+16,Sikkim Manipal University Distance Education (SMU-DE),26.1593315,91.69858149999999,universities
+19,Barbhag College,26.3645284,91.48297529999999,universities
+22,Exotica Greens,26.1653236,91.7790399,shopping_malls
+23,RCM PUC BIJOYNAGAR,26.1041241,91.5065807,shopping_malls
+26,Patanjali Arogya Kendra,26.141557,91.74161389999999,shopping_malls
+27,Brahmaputra Industrial & Suppliers,26.1779708,91.7406833,shopping_malls
+35,Bhogali Jalpan: ভোগালী জলপান,26.1588292,91.78783270000001,shopping_malls
+36,"Westside - Udeshna Mall, Guwahati",26.13947,91.7985909,shopping_malls
+40,JC store,26.0890848,91.5621669,shopping_malls
+44,Guwahati Municipal Corporation Market Complex,26.1811003,91.73817199999999,supermarkets
+45,Vishal Mega Mart,26.1799619,91.7460485,supermarkets
+46,Reliance SMART Bazaar,26.1659301,91.76848009999999,supermarkets
+51,Boro Chowk,26.2860002,91.83374979999999,supermarkets
+54,A & N STORE,26.1181513,91.5496922,supermarkets
+55,PRAFULLA MART,26.0564619,91.5232743,supermarkets
+66,Union Bank of India,26.037672,91.511701,hotels
+68,State Bank of India - Guwahati Airport Branch,26.10119599999999,91.5985224,hotels
+69,"Co-operative Apex bank, Bijoynagar",26.1031859,91.50868229999999,hotels
+71,"Dakshin Kamrup Girls College, Kochpara Mirza",26.0946054,91.52739509999999,hotels
+72,CENTRAL BANK OF INDIA - MIRZA Branch,26.09261829999999,91.5364926,hotels
+80,Azara,26.1238778,91.61734969999999,hotels
+81,DEBAPI DAS GREEN HARVEAT LEMON GARDEN,26.2514048,91.60056829999999,parks
+85,Bamon Farms,25.7987599,91.9400544,parks
+90,Maliyata pahar,26.0776356,91.54452529999999,parks
+92,Maliata RF towers,26.0722885,91.5365442,parks
+93,Travel Asia,26.0876449,91.5352934,parks
+94,Tiku ff,26.0648394,91.5758367,parks
+95,Parking,26.0762179,91.5327453,parks
+101,Bridgestone Select - Auto Wheelz,26.1281406,91.8117984,parking_spots
+102,The Spice Route,26.1423127,91.79499940000001,parking_spots
+111,Kushal's Garage,26.0707769,91.5295273,parking_spots
+115,Panjabari,26.1050852,91.5896923,parking_spots
+118,Anil nath House,26.1005375,91.5940469,parking_spots
+121,IndianOil,26.019701,91.867617,petrol_pumps
+125,IndianOil,26.089733,91.558489,petrol_pumps
+131,"Sohani Meghalaya Service Station, Bharat Petroleum",26.02506999999999,91.5700883,petrol_pumps
+136,HP PETROL PUMP - HP BARTEZPUR,26.0722111,91.4388486,petrol_pumps
+142,Bamuni Gaon,26.0149029,91.2957189,railway_stations
+144,Panikhaiti,26.2115546,91.8752524,railway_stations
+147,Digaru,26.1536805,91.978877,railway_stations
+148,Singra,25.9850517,91.1413551,railway_stations
+149,Panbari,26.199938,91.9775068,railway_stations
+150,Tetelia Junction,26.125661,92.02286149999999,railway_stations
+154,Chaygaon,26.0642,91.3955,railway_stations
+157,New Guwahati,26.1810379,91.7924439,railway_stations
+159,Noonmati,26.180633,91.80704399999999,railway_stations
+166,Banajit Kalita HOME,26.1305216,91.59789219999999,airports
+173,Army job,25.7468085,91.8891675,airports
+3,A+ Charge Charging Station,26.1710959,91.7775629,"Rajat Kamal Path, Zoo Tiniali, Guwahati"
+4,BPCL Charging Station,26.110512,91.77951,"4Q6H+6R2 KAMRUP METRO, GUWAHATI BYPASS, LALMATI, Guwahati"
+5,Electric Vehicle Charging Station,26.4082717,91.9339112,"CW5M+4FM, Bordolguri, Dakhin Chuburi"
+6,BPCL Charging Station,26.3187867,91.71510900000001,"8P98+G29, opp. Gopeswarmandir, Deuduwar, Baihata Chariali"
+7,Adani Charging Station,26.105422,91.588741,"international Airport, VIP parking, Borjhar, Guwahati"
+8,BPCL Charging Station,26.411945,91.956228,"CX64+QFH, Mangaldoi, Pakabangi Chuburi"
+9,Electric Vehicle Charging Station,26.1469472,91.7880462,"4QWQ+Q5V, Dispur, Guwahati"
+12,Kazam Charging Station,26.1325583,91.8435302,"4RMV+2CC, Batahguli, Guwahati, Amsing"
+14,Ather Grid Charging Station,26.0108558,91.5087465,"2G65+8FX, Bholagaon maszid bhalla karispara via, Palashbari-Mirza-Loharghat-Rajapara-Chandubi Rd, Tatibama, Guwahati"
+15,Electric Vehicle Charging Station,26.1709449,91.7614991,"HD Complex, Janapath Ln, South Sarania, Ulubari, Guwahati"
+17,Kazam Charging Station,26.1385786,91.7383898,"4PQQ+GCJ, Lokhra Rd, Barsapara, Guwahati"
+18,Ather Grid Charging Station,26.1685318,91.7210899,"SAR WHEELS, Kalipur, Guwahati"
+20,Ather Grid Charging Station,26.1108463,91.76794,"SAR Motors, Bora Commercial Complex, opposite ABC Compound, Nalapara, Lokhra, Guwahati"
+21,Electric Vehicle Charging Station,26.1020008,91.8637057,"4V27+QFW, Jorabat"
+24,BPCL Charging Station,26.110512,91.77951,"4Q6H+6R2 KAMRUP METRO, GUWAHATI BYPASS, LALMATI, Guwahati"
+25,Electric Vehicle Charging Station,26.4082717,91.9339112,"CW5M+4FM, Bordolguri, Dakhin Chuburi"
+28,BPCL Charging Station,26.411945,91.956228,"CX64+QFH, Mangaldoi, Pakabangi Chuburi"
+29,Electric Vehicle Charging Station,26.1469472,91.7880462,"4QWQ+Q5V, Dispur, Guwahati"
+30,Ola Electric Mobility Charging Station,26.1592745,91.7817396,"5Q5J+PM5, Sree Nagar, Guwahati"
+31,Ather Charging Station,26.112461,91.7244362,"4P6F+PMV, AHOM GAON, Guwahati"
+32,Kazam Charging Station,26.1325583,91.8435302,"4RMV+2CC, Batahguli, Guwahati, Amsing"
+33,Ather Charging Station,26.1316779,91.7936613,"4QJV+MFF, Basisthapur Bylane No. 4, Basisthpur, Guwahati"
+34,Ather Grid Charging Station,26.0108558,91.5087465,"2G65+8FX, Bholagaon maszid bhalla karispara via, Palashbari-Mirza-Loharghat-Rajapara-Chandubi Rd, Tatibama, Guwahati"
+37,Kazam Charging Station,26.1385786,91.7383898,"4PQQ+GCJ, Lokhra Rd, Barsapara, Guwahati"
+38,Ather Grid Charging Station,26.1685318,91.7210899,"SAR WHEELS, Kalipur, Guwahati"
+39,Ather Grid Charging Station,26.1359873,91.7366698,"Mayfair Apartment, Lokhra Rd, Subash Pally, Barsapara, Guwahati"
